@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.midplus1.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\hrithik16237\\Documents\\MidPlus2\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "MidPlus2 [Testing]"
+        }
+      }
+    }
+  ]
+}
